@@ -1,3 +1,3 @@
 module github.com/Maxinho96/go_examples/hello
 
-go 1.18
+go 1.19
